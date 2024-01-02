@@ -1,0 +1,4 @@
+@EndUserText.label: 'Billing客製欄位匯入'
+define service ZZ1_BILINNG_IMPORT_SD {
+  expose ZZ1_PV_BILLING_IMPROT;
+}
